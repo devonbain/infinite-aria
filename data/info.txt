@@ -9,3 +9,6 @@ texts:
 - http://opera.stanford.edu/iu/libretti/acis.htm
 - http://opera.stanford.edu/iu/libretti/dido.html
 - http://kareol.es/obras/henryclifford/acto1.htm
+
+sounds:
+- https://list.fandom.com/wiki/Sounds_and_Noises,_Comic_Sound_Effects
